@@ -98,8 +98,8 @@ But since this is a scam project, I was also not deceived when I did the work in
 ### Function for status:
 
 - **Status 0**: Raindom integer, min 25 000, max 35 000. Сase (-2, 2)
-- **Status 1**: Win, min 25 000, max 35 000. If the user chose to increase the schedule, the chances: (-2, 2.35)
-- **Status 2**: Loss, min 25 000, max 35 000. If the user chose to increase the schedule, the chances: (-2.35, 2)
+- **Status 1**: Win, min 25 000, max 35 000. If the user chose to increase the schedule, the chances: (-2, 4)
+- **Status 2**: Loss, min 25 000, max 35 000. If the user chose to increase the schedule, the chances: (-4, 2)
 
 ![](https://i.ibb.co/VYy4tRB/2023-12-11-111025.png)
 
