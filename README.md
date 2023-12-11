@@ -39,7 +39,7 @@ python manage.py migrate
 
 `PATH FOR WORKERBASE: /static/bot/workerbase.db`
 
-**ALL DATABASES IN DIRECTORY: [/static/bot/](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/static/bot/)**
+**ALL DATABASES IN DIRECTORY: [/static/bot/](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/tree/main/static/bot)**
 
 ```
 You must have DIRECT links to the databases as long as the database is not on a branch server. Example: C:/YOUR/PATH/TO/DATABASE.db . Direct links should be changed in such files as:
