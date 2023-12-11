@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.9332mm" height="16.9332mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1.52349 1.52349"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#4C4C4C}
+    .fil1 {fill:#FF6600}
+    .fil0 {fill:#010101;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+<symbol id="Fm4-477-0" viewBox="21.8272 -18.0659 1.17433 1.65386">
+ <polygon class="fil0" points="21.8272,-17.3725 21.8272,-16.412 23.0016,-18.0659 "/>
+</symbol>
+<symbol id="Fm0-469-0" viewBox="20.6536 -18.8219 2.34728 1.22718">
+ <polygon class="fil0" points="21.8272,-18.8219 20.6536,-18.2884 21.8272,-17.5947 23.0009,-18.2884 "/>
+</symbol>
+<symbol id="Fm1-471-0" viewBox="20.6536 -20.2358 1.17364 2.64109">
+ <polygon class="fil0" points="20.6536,-18.2884 21.8272,-17.5947 21.8272,-18.8219 21.8272,-20.2358 "/>
+</symbol>
+<symbol id="Fm2-473-0" viewBox="21.8272 -20.2358 1.17364 2.64109">
+ <polygon class="fil0" points="21.8272,-20.2358 21.8272,-18.8219 21.8272,-17.5947 23.0009,-18.2884 "/>
+</symbol>
+<symbol id="Fm3-475-0" viewBox="20.6536 -18.0659 1.17364 1.65386">
+ <polygon class="fil0" points="20.6536,-18.0659 21.8272,-16.412 21.8272,-17.3725 "/>
+</symbol>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_391743896">
+   <path id="_391744448" class="fil1" d="M0.761727 8.99706e-006c-0.42063,0 -0.761745,0.341087 -0.761745,0.761727 0,0.0840775 0.0136215,0.164952 0.0387953,0.240608l0.227814 0 0 -0.640905 0.495135 0.495135 0.495126 -0.495135 0 0.640905 0.227823 0c0.0251828,-0.0756563 0.0388043,-0.156531 0.0388043,-0.240608 0,-0.420639 -0.341105,-0.761727 -0.761754,-0.761727z"/>
+   <path id="_391744472" class="fil2" d="M0.647869 0.970414l-0.216082 -0.216091 0 0.403275 -0.082602 0 -0.082602 0 -0.155766 0c0.133714,0.219384 0.375222,0.365883 0.650892,0.365883 0.275679,0 0.517205,-0.146499 0.65091,-0.365883l-0.155784 0 -0.14775 0 -0.0174363 0 0 -0.403275 -0.216091 0.216091 -0.113849 0.113831 -0.113822 -0.113831 -1.79941e-005 0z"/>
+  </g>
+ </g>
+</svg>
