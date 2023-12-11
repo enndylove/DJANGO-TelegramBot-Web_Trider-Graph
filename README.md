@@ -105,7 +105,7 @@ But since this is a scam project, I was also not deceived when I did the work in
 
 ## Packages
 
-- **_All packages in a file: [requirements.txt](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/requirements.txt)_**
+- **_All packages in a file: [requirements.txt](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/blob/main/requirements.txt)_**
 
 ## Hardware
 
@@ -173,7 +173,7 @@ GPU: Nvidia GTX1660 Ti (6GB)
 
 # License
 
-#### This project is licensed under the [MIT License](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/LICENCE.md).
+#### This project is licensed under the [MIT License](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/blob/main/LICENCE.md).
 
 ---
 
