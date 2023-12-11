@@ -31,7 +31,7 @@ And in the file /static/bot/config.py in the variable TOKEN
 python manage.py migrate
 ```
 
-\***\*You need to create 3 databases according to [.env.example](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/.env.example)\*\***
+\***\*You need to create 3 databases according to [.env.example](https://github.com/enndylove/DJANGO-TelegramBot-Web_Trider-Graph/blob/main/.env.example)\*\***
 
 `PATH FOR DATABASES: /static/bot/database.db`
 
