@@ -1,4 +1,4 @@
-# DJANGO | TelegramBot - Web Trider Graph <img src="https://img.shields.io/static/v1?label=🤖 Telegram Bot&message=Trider Graph 📈&color=ffffff" />
+# DJANGO | TelegramBot - Web Trider Graph <img src="https://img.shields.io/static/v1?label=🤖 Website-Telegram Bot&message=Trider Graph 📈&color=ffffff" />
 
 ![](https://i.ibb.co/WyBPTqz/300x300-logo.png)
 
