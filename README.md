@@ -1,6 +1,6 @@
-# DJANGO | TelegramBot - Web Trider Graph <img src="https://img.shields.io/static/v1?label=🤖 Telegram Bot&message=Trider Graph 📈&color=4201ff" />
+# DJANGO | TelegramBot - Web Trider Graph <img src="https://img.shields.io/static/v1?label=🤖 Telegram Bot&message=Trider Graph 📈&color=ffffff" />
 
-![](https://i.ibb.co/TH0v0Hz/image.jpg)
+![](https://i.ibb.co/WyBPTqz/300x300-logo.png)
 
 ## Papar Information
 
